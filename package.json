@@ -1,0 +1,18 @@
+{
+  "name": "jquery-jsonrpc",
+  "version": "0.1.1",
+  "description": "jQuery JSON RPC client",
+  "main": "index.js",
+  "dependencies": {
+    "jquery": ">=1.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/datagraph/jquery-jsonrpc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "Unlicense"
+}
